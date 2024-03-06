@@ -29,12 +29,10 @@ OpenCV is required for video processing functionalities. Install OpenCV using pi
 ```bash
 pip install opencv-python-headless
 ```
-### 5. Usage
-
-Once you have installed the dependencies, you can run the application using the following command:
-
+OR
+OR
 ```bash
-python converter_app.py
+pip install opencv-python
 ```
 
 ###  Note: 
