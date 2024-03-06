@@ -1,0 +1,2 @@
+ image_frame = tk.LabelFrame(root, text="Image Converter", padx=10, pady=10, font=("Helvetica", 30, "bold"),bg="#34353b", fg="white",borderwidth=20)
+        image_frame.pack(padx=200, pady=20, fill="both", expand=True)
